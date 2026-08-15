@@ -47,6 +47,7 @@ Model Context Protocol integrations that give AI assistants browser capabilities
 
 Frameworks for building AI agents that can use browser tools.
 
+- [agent-qa](https://github.com/vostride/agent-qa) — Self-improving QA agent for browser tests with persistent run memory and UI-change adaptation
 - [LangChain](https://github.com/langchain-ai/langchain) — The most popular LLM application framework. Has browser tool integrations.
 - [LlamaIndex](https://github.com/run-llama/llama_index) — Data framework for building LLM applications with web research capabilities.
 - [AutoGen](https://github.com/microsoft/autogen) — Microsoft's multi-agent framework. Agents can delegate browser tasks.
