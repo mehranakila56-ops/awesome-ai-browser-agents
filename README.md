@@ -42,6 +42,7 @@ Model Context Protocol integrations that give AI assistants browser capabilities
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) — Official MCP reference servers including browser and filesystem access.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — Curated list of all MCP servers.
 - [awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers) — Remote MCP servers you can connect to without running locally.
+- [Vend MCP](https://extract.paypercall.dev/mcp) — Remote pay-per-call MCP server with 9 web-data tools, plus semantic search at `https://search.paypercall.dev/api/v1/neural-search?q=` for 0.0005 XNO a call. Settles in Nano, no API key or subscription.
 
 ## AI Agent Frameworks
 
