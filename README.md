@@ -23,6 +23,7 @@ Managed browser infrastructure for AI agents — no local setup required.
 - [AnchorBrowser](https://anchorbrowser.io) — Cloud browser platform for AI agents. Built-in stealth, CAPTCHA solving, residential proxies, and MCP support. Cloudflare Verified Browser Agent partner. Connects via WebSocket/CDP.
 - [Browserbase](https://browserbase.com) — Headless browser infrastructure for AI agents. Playwright-native with session recording and debugging.
 - [BrowserCloud](https://browsercloud.io) — Cloud browser infrastructure with multi-framework support (Puppeteer, Playwright, Selenium). Enterprise focus.
+- [Cloudbrowser](https://cloudbrowser.tv) — Persistent cloud Chrome for AI agents with isolated profiles, scoped CDP, pause/resume, and full desktop Live View.
 - [Hyperbrowser](https://hyperbrowser.ai) — Cloud browser for web scraping and AI automation.
 
 ## Browser Automation Frameworks
